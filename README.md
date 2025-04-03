@@ -28,8 +28,5 @@ Certifique-se de que os seguintes requisitos estão instalados em seu sistema:
 - [.NET SDK](https://dotnet.microsoft.com/download)
 
 
-# Demonstração
-
-<p align='center'> <img src= '/webapi.gif'</p></p>
 
 
