@@ -10,7 +10,14 @@ Este projeto é uma aplicação que permite o cadastro de funcionários em uma e
 - **Banco de Dados**: SQL Server
 - **ORM**: EntityFramework
 
+## Funcões
 
+- Permite cadastro de funcionário
+- Exclusão
+- Atualizaçaõ e alteração de cargo ou turno
+- Alteração de status
+
+  
 ---
 
 ## Requisitos para Execução
